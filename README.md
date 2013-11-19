@@ -10,5 +10,6 @@ The project skeleton has following items.
 - WTForms
 - Gunicorn
 - Bootstrap3
+- gevent
 
 Copy `instance/settings-sample.py` to `instance/settings.py`.

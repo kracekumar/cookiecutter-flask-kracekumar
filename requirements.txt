@@ -7,3 +7,4 @@ wtforms
 flask-script == 0.5.2
 coaster
 https://github.com/hasgeek/coaster/archive/master.zip
+gevent

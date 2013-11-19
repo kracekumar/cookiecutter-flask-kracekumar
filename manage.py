@@ -1,8 +1,8 @@
 #! -*- coding: utf-8 -*-
 
 from flask.ext.script import Manager, Shell, Server
-from appfolio import create_app, models
-from appfolio.models import db
+from {{cookiecutter.repo_name}} import create_app, models
+from {{cookiecutter.repo_name}}.models import db
 
 app = create_app()
 manager = Manager(app)
